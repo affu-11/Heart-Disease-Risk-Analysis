@@ -5,11 +5,11 @@ This project performs Exploratory Data Analysis (EDA) on the UCI Heart Disease D
 
 # Objectives
 
-1.Analyze patient health indicators such as age, cholesterol, blood pressure, chest pain type, and maximum heart rate.
-2.Identify key risk factors influencing heart disease.
-3.Visualize demographic trends (age groups, gender distribution) in relation to disease outcomes.
-4.Perform correlation analysis to uncover relationships between features.
-5.Apply PCA and KMeans clustering to group patients into low-risk and high-risk categories.
+1. Analyze patient health indicators such as age, cholesterol, blood pressure, chest pain type, and maximum heart rate.
+2. Identify key risk factors influencing heart disease.
+3. Visualize demographic trends (age groups, gender distribution) in relation to disease outcomes.
+4. Perform correlation analysis to uncover relationships between features.
+5. Apply PCA and KMeans clustering to group patients into low-risk and high-risk categories.
 
 # Dataset
 
